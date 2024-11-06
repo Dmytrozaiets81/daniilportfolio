@@ -73,7 +73,7 @@ const ContactForm = () => {
               placeholder="Enter your First Name"
               id="firstname"
               type="text"
-              name="from_name"
+              name="from_first"
               required
             />
           </div>
@@ -95,7 +95,7 @@ const ContactForm = () => {
               placeholder="Enter your E-mail"
               id="email"
               type="email"
-              name="from_email"
+              name="from_name"
               required
             />
           </div>

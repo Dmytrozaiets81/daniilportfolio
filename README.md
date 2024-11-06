@@ -3,7 +3,7 @@ Welcome to my portfolio repository! This project showcases my skills using React
 
 <p align="center">
   <br>
-  <img src="https://i.imgur.com/YjFLrzx.png" alt="wb" width="400">
+  <img src="https://i.ibb.co/jy8y9cB/Screenshot-17.png" alt="wb" width="400">
   <br>
 </p>
 <p align="center" >

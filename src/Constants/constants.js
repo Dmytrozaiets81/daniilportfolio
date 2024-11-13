@@ -97,9 +97,9 @@ const introduction = {
   text: [
     "Hello there, I'm so happy you are here! (:",
 
-    "Hello! I'm Danial, a full stack0  developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
-    "Outside of my regular activities, I'm a football enthusiast, chess player, and a dog lover.",
+    "Hello! I'm Danial, a full stack developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
     "Ambitious and knowledgeable front-end developer with expertise in web and app development, specializing in clean, efficient code. Proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, with added experience in blockchain, including Solidity, wallet integration, and NFT marketplaces. Skilled in creating responsive designs for micro-sites, landing pages, and templates, I am driven to exceed expectations and support client success through innovative solutions and troubleshooting. Eager to contribute my technical and interpersonal skills to a dynamic team.",
+    "Outside of my regular activities, I'm a football enthusiast, chess player, and a dog lover.",
     "You can download my resume here.",
   ],
 };

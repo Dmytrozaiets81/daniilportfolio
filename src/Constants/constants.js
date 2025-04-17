@@ -97,7 +97,7 @@ const introduction = {
   text: [
     "Hello there, I'm so happy you are here! (:",
 
-    "Hello! I'm Danial, a full stack developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
+    "Hello! I'm Daniel, a full stack developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
     "Ambitious and knowledgeable front-end developer with expertise in web and app development, specializing in clean, efficient code. Proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, with added experience in blockchain, including Solidity, wallet integration, and NFT marketplaces. Skilled in creating responsive designs for micro-sites, landing pages, and templates, I am driven to exceed expectations and support client success through innovative solutions and troubleshooting. Eager to contribute my technical and interpersonal skills to a dynamic team.",
     "Outside of my regular activities, I'm a football enthusiast, chess player, and a dog lover.",
     "You can download my resume here.",
@@ -159,13 +159,13 @@ const projects = [
     image: portfolio5,
     demo_link: "https://www.olivespa.co.jp/",
   },
-  {
-    name: "Qoo10",
-    description:
-      "I built this project using React. Qoo10 is a popular online marketplace in Japan, offering a wide range of products including electronics, fashion, home goods, and more. Their platform allows for easy browsing and includes daily deals and promotions across various categories.",
-    image: portfolio6,
-    demo_link: "https://www.qoo10.jp/",
-  },
+  // {
+  //   name: "Qoo10",
+  //   description:
+  //     "I built this project using React. Qoo10 is a popular online marketplace in Japan, offering a wide range of products including electronics, fashion, home goods, and more. Their platform allows for easy browsing and includes daily deals and promotions across various categories.",
+  //   image: portfolio6,
+  //   demo_link: "https://www.qoo10.jp/",
+  // },
   {
     name: "Kryptomon",
     description:

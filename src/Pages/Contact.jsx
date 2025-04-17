@@ -40,7 +40,7 @@ const Contact = () => {
         <SocialLinks />
         <div className="bg-grayscale-950 flex justify-center pb-4 text-primary-200">
           <span>
-            Made by <em>Danial Lokman (blackswan)</em>
+            Made by <em>Deris Daniel(blackswan)</em>
           </span>
         </div>
       </div>

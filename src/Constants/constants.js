@@ -95,11 +95,11 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! (:",
+    "Hello there, I'm so happy you are here! :)",
 
-    "Hello! I'm Daniel, a full stack developer based in Malaysia. I have a strong passion for the technologies related to QA and AI.",
-    "Ambitious and knowledgeable front-end developer with expertise in web and app development, specializing in clean, efficient code. Proficient in MongoDB, Express.js, Nest.js, React.js, Node.js, Next.js, MySQL, HTML5, and CSS3, with added experience in blockchain, including Solidity, wallet integration, and NFT marketplaces. Skilled in creating responsive designs for micro-sites, landing pages, and templates, I am driven to exceed expectations and support client success through innovative solutions and troubleshooting. Eager to contribute my technical and interpersonal skills to a dynamic team.",
-    "Outside of my regular activities, I'm a football enthusiast, chess player, and a dog lover.",
+    "Hello! I'm Daniil and I'm based in Poland. In today's rapidly evolving digital landscape, the ability to develop comprehensive, dynamic, and data-driven web applications is more crucial than ever. ",
+    "As a Full Stack Developer skilled in Python and React, I specialize in building robust, scalable, and user-friendly solutions that seamlessly integrate frontend and backend technologies. My expertise extends to web data scraping, enabling the extraction and utilization of valuable information from diverse online sources. ",
+    "With a strong foundation in both server-side and client-side development, I am committed to delivering innovative applications that meet complex business needs and drive data-informed decision-making.",
     "You can download my resume here.",
   ],
 };

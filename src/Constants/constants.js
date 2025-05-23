@@ -95,7 +95,7 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! :)",
+    "Hello there, I'm so happy you are here!",
 
     "Hello! I'm Daniil and I'm based in Poland. In today's rapidly evolving digital landscape, the ability to develop comprehensive, dynamic, and data-driven web applications is more crucial than ever. ",
     " I have over 7 years of experience as a Full Stack Developer skilled in Python and React, I specialize in building robust, scalable, and user-friendly solutions that seamlessly integrate frontend and backend technologies. My expertise extends to web data scraping, enabling the extraction and utilization of valuable information from diverse online sources. ",

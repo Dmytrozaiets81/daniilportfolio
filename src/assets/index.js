@@ -19,7 +19,7 @@ import awsIcon from "./tech/aws.png";
 import javaIcon from "./tech/java.png";
 import gitIcon from "./tech/git.png";
 import githubIcon from "./tech/github.png";
-import figmaIcon from "./tech/figma.png";
+import telegramIcon from "./tech/telegram.png";
 import psqlIcon from "./tech/postgresql.png";
 import eslintIcon from "./tech/eslint.png";
 import viteIcon from "./tech/vite.svg";
@@ -62,7 +62,7 @@ export {
   gitIcon,
   githubIcon,
   eslintIcon,
-  figmaIcon,
+  telegramIcon,
   psqlIcon,
   nodeIcon,
   pyIcon,

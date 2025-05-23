@@ -20,7 +20,7 @@ import {
   faReact,
   faGithub,
   faLinkedin,
-  faFigma,
+  faTelegram,
 } from "@fortawesome/free-brands-svg-icons";
 
 import {
@@ -39,7 +39,7 @@ import {
   nodeIcon,
   raspIcon,
   neoIcon,
-  figmaIcon,
+  telegramIcon,
   pawsitivePrototype,
   memoryGame,
   avatar,
@@ -76,7 +76,7 @@ const media = {
   nodeIcon,
   raspIcon,
   neoIcon,
-  figmaIcon,
+  telegramIcon,
   avatar,
 };
 
@@ -90,7 +90,7 @@ const icons = {
   faGithub,
   faLinkedin,
   faEnvelope,
-  faFigma,
+  faTelegram,
 };
 
 const introduction = {
@@ -98,7 +98,7 @@ const introduction = {
     "Hello there, I'm so happy you are here! :)",
 
     "Hello! I'm Daniil and I'm based in Poland. In today's rapidly evolving digital landscape, the ability to develop comprehensive, dynamic, and data-driven web applications is more crucial than ever. ",
-    "As a Full Stack Developer skilled in Python and React, I specialize in building robust, scalable, and user-friendly solutions that seamlessly integrate frontend and backend technologies. My expertise extends to web data scraping, enabling the extraction and utilization of valuable information from diverse online sources. ",
+    " I have over 7 years of experience as a Full Stack Developer skilled in Python and React, I specialize in building robust, scalable, and user-friendly solutions that seamlessly integrate frontend and backend technologies. My expertise extends to web data scraping, enabling the extraction and utilization of valuable information from diverse online sources. ",
     "With a strong foundation in both server-side and client-side development, I am committed to delivering innovative applications that meet complex business needs and drive data-informed decision-making.",
     "You can download my resume here.",
   ],
@@ -256,13 +256,6 @@ const skills = [
     icon: awsIcon,
     description:
       "I am certified in AWS and proficient in working with EC2 and RDS instances, leveraging the power of cloud computing for scalable and reliable infrastructure.",
-  },
-  {
-    id: "figma",
-    title: "Figma",
-    icon: figmaIcon,
-    description:
-      "In my Figma skills, I unleash creativity, designing captivating user interfaces and collaborating seamlessly with designers and developers.",
   },
   {
     id: "git",

@@ -271,42 +271,42 @@ const skills = [
     title: "Bot",
     icon: botIcon,
     description:
-      "",
+      "I have developed intelligent bots for automation and interaction, enhancing efficiency in customer service and data handling. I have experience with Telegram and Discord bots, utilizing their APIs to create engaging user experiences.",
   },
   {
     id: "docker",
     title: "Docker",
     icon: dockerIcon,
     description:
-      "",
+      "I have utilized Docker to streamline development workflows and ensure consistent deployment environments across multiple projects.",
   },
   {
     id: "django",
     title: "Django",
     icon: djangoIcon,
     description:
-      "",
+      "I have experience in creating RESTful APIs and integrating third-party services, ensuring seamless communication between frontend and backend components.",
   },
   {
     id: "next",
     title: "Next",
     icon: nextIcon,
     description:
-      "",
+      " I have crafted high-performance, SEO-friendly web applications using Next.js, integrating both server-side and client-side rendering. I leverage its features for static site generation and API routes, ensuring optimal performance and user experience.",
   },
   {
     id: "scraping",
     title: "Scraping",
     icon: scrapingIcon,
     description:
-      "",
+      "I specialize in web scraping solutions to extract and structure valuable data from various sources for analytics and automation.",
   },
   {
     id: "wordpress ",
     title: "Wordpress",
     icon: wordpressIcon,
     description:
-      "",
+      "I have built and customized dynamic websites using WordPress, leveraging both themes and plugins to meet diverse client needs.",
   },
   {
     id: "aws",

@@ -19,6 +19,7 @@ import awsIcon from "./tech/aws.png";
 import javaIcon from "./tech/java.png";
 import gitIcon from "./tech/git.png";
 import githubIcon from "./tech/github.png";
+import discordIcon from "./tech/discord.png";
 import telegramIcon from "./tech/telegram.png";
 import psqlIcon from "./tech/postgresql.png";
 import eslintIcon from "./tech/eslint.png";
@@ -27,6 +28,12 @@ import pyIcon from "./tech/py.png";
 import nodeIcon from "./tech/node.webp";
 import neoIcon from "./tech/neo.png";
 import raspIcon from "./tech/raspi.png";
+import botIcon from "./tech/bot.png";
+import dockerIcon from "./tech/docker.png";
+import djangoIcon from "./tech/django.png";
+import nextIcon from "./tech/next.png";
+import scrapingIcon from "./tech/scraping.png";
+import wordpressIcon from "./tech/wordpress.png";
 import close from "./close.svg";
 import menu from "./menu.svg";
 
@@ -53,6 +60,12 @@ import avatar from "./avatar/my-avatar.jpg";
 export {
   menu,
   close,
+  botIcon,
+  dockerIcon,
+  djangoIcon,
+  nextIcon,
+  scrapingIcon,
+  wordpressIcon,
   htmlIcon,
   cssIcon,
   jsIcon,
@@ -62,6 +75,7 @@ export {
   gitIcon,
   githubIcon,
   eslintIcon,
+  discordIcon,
   telegramIcon,
   psqlIcon,
   nodeIcon,

@@ -20,10 +20,17 @@ import {
   faReact,
   faGithub,
   faLinkedin,
+  faDiscord,
   faTelegram,
 } from "@fortawesome/free-brands-svg-icons";
 
 import {
+  botIcon,
+  dockerIcon,
+  djangoIcon,
+  nextIcon,
+  scrapingIcon,
+  wordpressIcon,
   htmlIcon,
   cssIcon,
   jsIcon,
@@ -39,6 +46,7 @@ import {
   nodeIcon,
   raspIcon,
   neoIcon,
+  discordIcon,
   telegramIcon,
   pawsitivePrototype,
   memoryGame,
@@ -61,6 +69,12 @@ import {
 library.add(faX, faBars, faWindowRestore, faBagShopping, faDiceD6);
 
 const media = {
+  botIcon,
+  dockerIcon,
+  djangoIcon,
+  nextIcon,
+  scrapingIcon,
+  wordpressIcon,
   htmlIcon,
   cssIcon,
   jsIcon,
@@ -76,6 +90,7 @@ const media = {
   nodeIcon,
   raspIcon,
   neoIcon,
+  discordIcon,
   telegramIcon,
   avatar,
 };
@@ -90,6 +105,7 @@ const icons = {
   faGithub,
   faLinkedin,
   faEnvelope,
+  faDiscord,
   faTelegram,
 };
 
@@ -131,13 +147,13 @@ const projects = [
     image: portfolio1,
     demo_link: "https://hulkcars.com/",
   },
-  // {
-  //   name: "Sigma Beauty",
-  //   description:
-  //     "This project implements Connect Four in Python and Pygame, featuring a GUI and gameplay modes for player vs. AI and AI vs. AI. The AI uses the MiniMax algorithm, with optional alpha-beta pruning for improved performance.",
-  //   image: portfolio2,
-  //   demo_link: "https://sigmabeauty.com/",
-  // },
+  {
+    name: "Sigma Beauty",
+    description:
+      "This project implements Connect Four in Python and Pygame, featuring a GUI and gameplay modes for player vs. AI and AI vs. AI. The AI uses the MiniMax algorithm, with optional alpha-beta pruning for improved performance.",
+    image: portfolio2,
+    demo_link: "https://sigmabeauty.com/",
+  },
   {
     name: "Scribble",
     description:
@@ -159,13 +175,13 @@ const projects = [
     image: portfolio5,
     demo_link: "https://www.olivespa.co.jp/",
   },
-  // {
-  //   name: "Qoo10",
-  //   description:
-  //     "I built this project using React. Qoo10 is a popular online marketplace in Japan, offering a wide range of products including electronics, fashion, home goods, and more. Their platform allows for easy browsing and includes daily deals and promotions across various categories.",
-  //   image: portfolio6,
-  //   demo_link: "https://www.qoo10.jp/",
-  // },
+  {
+    name: "Qoo10",
+    description:
+      "I built this project using React. Qoo10 is a popular online marketplace in Japan, offering a wide range of products including electronics, fashion, home goods, and more. Their platform allows for easy browsing and includes daily deals and promotions across various categories.",
+    image: portfolio6,
+    demo_link: "https://www.qoo10.jp/",
+  },
   {
     name: "Kryptomon",
     description:
@@ -251,6 +267,48 @@ const skills = [
       "I have extensive experience utilizing Java for object-oriented programming (OOP) and implementing data structures.",
   },
   {
+    id: "bot",
+    title: "Bot",
+    icon: botIcon,
+    description:
+      "",
+  },
+  {
+    id: "docker",
+    title: "Docker",
+    icon: dockerIcon,
+    description:
+      "",
+  },
+  {
+    id: "django",
+    title: "Django",
+    icon: djangoIcon,
+    description:
+      "",
+  },
+  {
+    id: "next",
+    title: "Next",
+    icon: nextIcon,
+    description:
+      "",
+  },
+  {
+    id: "scraping",
+    title: "Scraping",
+    icon: scrapingIcon,
+    description:
+      "",
+  },
+  {
+    id: "wordpress ",
+    title: "Wordpress",
+    icon: wordpressIcon,
+    description:
+      "",
+  },
+  {
     id: "aws",
     title: "Amazon Web Services",
     icon: awsIcon,
@@ -290,7 +348,7 @@ const skills = [
     title: "Python",
     icon: pyIcon,
     description:
-      "With 3 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.",
+      "With 7 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.",
   },
   {
     id: "node",

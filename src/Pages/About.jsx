@@ -39,7 +39,7 @@ const About = () => {
                 <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[1]}</span>
                 <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[2]}</span>
                 <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[3]}</span>
-                <a href="cv/DerisDaniel.pdf" download>
+                <a href="cv/Daniil_Lapatiiov.pdf" download>
                   <span className="text-primary-600" style={{ fontSize: '0.95em', fontWeight: '700'}}>
                     {introduction.text[4].split('here')[0]}
                     <span style={{ textDecoration: 'underline' }}>here</span>

@@ -48,20 +48,19 @@ import {
   neoIcon,
   discordIcon,
   telegramIcon,
-  pawsitivePrototype,
-  memoryGame,
+  // pawsitivePrototype,
   avatar,
   portfolio1,
   portfolio2,
   portfolio3,
   portfolio4,
-  portfolio5,
+  // portfolio5,
   portfolio6,
   portfolio7,
   portfolio8,
   portfolio9,
   portfolio10,
-  portfolio11,
+  // portfolio11,
   portfolio12,
   portfolio13,
 } from "../assets";
@@ -141,89 +140,34 @@ export const navLinks = [
 
 const projects = [
   {
+    name: "Noovo Life",
+    description:
+      "I built this project using React and Next. Noovo Life offers a wide range of vans for rent, allowing you to explore the world at your own pace. With a focus on quality and customer satisfaction, Noovo Life ensures that every van is equipped with the latest technology and amenities to make your journey unforgettable.",
+    image: portfolio1,
+    demo_link: "https://www.noovolife.com/",
+  },
+  {
     name: "Hulk Cars",
     description:
       "I built this project using React. Hulk Cars offers car rental services, likely with a focus on integrating blockchain technology for vehicle tokenization. This approach may allow fractional ownership or secure transactions involving car assets.",
-    image: portfolio1,
+    image: portfolio2,
     demo_link: "https://hulkcars.com/",
   },
   {
-    name: "Sigma Beauty",
+    name: "Broad Nosh Bagels",
     description:
-      "This project implements Connect Four in Python and Pygame, featuring a GUI and gameplay modes for player vs. AI and AI vs. AI. The AI uses the MiniMax algorithm, with optional alpha-beta pruning for improved performance.",
-    image: portfolio2,
-    demo_link: "https://sigmabeauty.com/",
-  },
-  {
-    name: "Scribble",
-    description:
-      "I built this project using React. Scribble Together offers a collaborative online whiteboard, ideal for remote tutoring, meetings, and shared note-taking. It supports handwriting, diagram drawing, PDF markup, and works well with iPads and Apple Pencils.",
+      "I built this project using WordPress. Broad Nosh Bagels is a bagel shop that specializes in crafting delicious, authentic bagels with a variety of flavors and toppings. They offer a wide selection of freshly baked bagels, sandwiches, and spreads, catering to both traditional and innovative tastes.",
     image: portfolio3,
-    demo_link: "https://scribbletogether.com/",
-  },
-  {
-    name: "Will BE",
-    description:
-      "I built this project using Laravel Framework. Will-BE is a Japanese real estate agency specializing in rentals and condominium sales in Tokyo areas like Meguro, Setagaya, and Shibuya. They provide comprehensive property listings, area insights, and services for both renters and property owners.",
-    image: portfolio4,
-    demo_link: "https://will-be.co.jp/",
-  },
-  {
-    name: "Olive Spa",
-    description:
-      "I built this project using React Framework and Wordpress CMS. Olive Spa provides luxurious, private spa rooms inspired by Asian aesthetics, offering treatments like aromatherapy, healing stretches, and exclusive services in volcanic 'magma rooms.'",
-    image: portfolio5,
-    demo_link: "https://www.olivespa.co.jp/",
-  },
-  {
-    name: "Qoo10",
-    description:
-      "I built this project using React. Qoo10 is a popular online marketplace in Japan, offering a wide range of products including electronics, fashion, home goods, and more. Their platform allows for easy browsing and includes daily deals and promotions across various categories.",
-    image: portfolio6,
-    demo_link: "https://www.qoo10.jp/",
-  },
-  {
-    name: "Kryptomon",
-    description:
-      "I built this project using React. Kryptomon combines digital pet care with collectible RPG mechanics, where players raise, battle, and breed unique creatures known as Kryptomons. Using blockchain, it allows full ownership and trading of in-game assets, creating an open economy.",
-    image: portfolio7,
-    demo_link: "https://www.kryptomon.co/",
-  },
-  {
-    name: "Casino Game Alphapuesta",
-    description:
-      "I built this project using React. Alphapuesta is an online betting platform that offers a variety of gambling options, including sports betting, casino games, and live betting. The site provides a user-friendly interface, promotions, and a secure environment for users to place bets.",
-    image: portfolio8,
-    demo_link: "https://alphapuesta.net/",
-  },
-  {
-    name: "Casino Game Vivaslots",
-    description:
-      "I built this project using React. Viva Slots is an online casino platform in South Africa that offers a variety of slot games, table games, and live dealer experiences. The site emphasizes a user-friendly interface, promotional offers, and secure payment options.",
-    image: portfolio9,
-    demo_link: "https://vivaslots.co.za/",
-  },
-  {
-    name: "Casino Game Superslots",
-    description:
-      "I built this project using React. Super Slots is an online casino that offers a wide range of games, including slots, table games, and live dealer options. The site features various promotions and bonuses for new and existing players, emphasizing a user-friendly experience.",
-    image: portfolio10,
-    demo_link: "https://www.superslots.ag/",
+    demo_link: "https://broadnosh.com/",
   },
   {
     name: "Fjällräven",
     description:
       "I built this project using React. Fjällräven is a Swedish outdoor brand known for its durable, functional, and eco-friendly products, including backpacks, clothing, and accessories. The company emphasizes sustainability, using materials like organic cotton and recycled polyester.",
-    image: portfolio11,
+    image: portfolio4,
     demo_link: "https://www.fjallraven.com/",
   },
-  {
-    name: "SWOM",
-    description:
-      "SWOM is a home-swapping platform that allows users to exchange their homes with other travelers for free, promoting cultural exchange without the hassle of rental fees. The community includes members from various locations, providing opportunities for unique travel experiences.",
-    image: portfolio12,
-    demo_link: "https://swom.travel/home",
-  },
+  
 ];
 
 const memoji = {

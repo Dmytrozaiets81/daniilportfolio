@@ -154,7 +154,7 @@ const ProjectCard = ({
                       href={demo_link}
                       target="_blank"
                   >
-                      See the Demo
+                      View More
                   </a>
               </div>
           </motion.div>

@@ -54,15 +54,12 @@ import {
   portfolio2,
   portfolio3,
   portfolio4,
-  // portfolio5,
+  portfolio5,
   portfolio6,
   portfolio7,
   portfolio8,
   portfolio9,
-  portfolio10,
-  // portfolio11,
-  portfolio12,
-  portfolio13,
+  // portfolio10
 } from "../assets";
 
 library.add(faX, faBars, faWindowRestore, faBagShopping, faDiceD6);
@@ -160,14 +157,48 @@ const projects = [
     image: portfolio3,
     demo_link: "https://broadnosh.com/",
   },
+  // {
+  //   name: "Fjällräven",
+  //   description:
+  //     "I built this project using React. Fjällräven is a Swedish outdoor brand known for its durable, functional, and eco-friendly products, including backpacks, clothing, and accessories. The company emphasizes sustainability, using materials like organic cotton and recycled polyester.",
+  //   image: portfolio4,
+  //   demo_link: "https://www.fjallraven.com/",
+  // },
   {
-    name: "Fjällräven",
+    name: "Trading Bot Platform",
     description:
-      "I built this project using React. Fjällräven is a Swedish outdoor brand known for its durable, functional, and eco-friendly products, including backpacks, clothing, and accessories. The company emphasizes sustainability, using materials like organic cotton and recycled polyester.",
-    image: portfolio4,
-    demo_link: "https://www.fjallraven.com/",
+      "I built this project using Django and React. This platform allows users to create, backtest, and deploy trading bots for various financial markets. It provides a user-friendly interface for designing trading strategies, accessing historical data, and executing trades automatically.",
+    image: portfolio5,
+    // demo_link: "https://www.fjallraven.com/",
   },
-  
+  {
+    name: "Python & Website Scraper for Generating & Scrapy",
+    description:
+      "Created a powerful web scraper using Python and the Scrapy framework to extract and generate structured data from websites efficiently. The scraper was designed to handle large volumes of content, navigate through multiple pages, and extract targeted information such as product details, pricing, listings, and more.",
+    image: portfolio6,
+    // demo_link: "https://www.fjallraven.com/",
+  },
+  {
+    name: "Telegram Crypto Trade Bot",
+    description:
+      "Developed a Telegram bot using Python to automate cryptocurrency trading actions based on real-time signals and custom strategies. The bot connected with popular crypto exchange APIs (e.g., Binance, Coinbase) to execute buy/sell orders, track market prices, and provide instant trade alerts directly within Telegram.",
+    image: portfolio7,
+    // demo_link: "https://www.fjallraven.com/",
+  },
+  {
+    name: "Web Scraping & Data Mining & Data Extraction",
+    description:
+      "Built custom web scraping solutions using Python to extract structured data from websites for analysis, reporting, and automation. Utilized tools like BeautifulSoup, Scrapy, and Selenium to handle both static and dynamic content.",
+    image: portfolio8,
+    // demo_link: "https://www.fjallraven.com/",
+  },
+  {
+    name: "Python & Telegram Bot Development & Telegram API",
+    description:
+      "I developed and deployed custom Telegram bots using Python, directly integrating with the Telegram Bot API to automate tasks, send notifications, and interact with users in real time. My projects included features like command handling, user data management, inline buttons, and server configurations.",
+    image: portfolio9,
+    // demo_link: "https://www.fjallraven.com/",
+  },
 ];
 
 const memoji = {

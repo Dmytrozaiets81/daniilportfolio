@@ -23,7 +23,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Julio
+$ git clone https://github.com/Julio22022
 
 # Install dependencies
 $ npm i

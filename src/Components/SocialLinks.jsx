@@ -31,7 +31,7 @@ const SocialLinks = () => {
           icon={icons.faTelegram}
         />
       </a>
-      <a href="https://discord.com/users/coyote0202" target="_blank">
+      <a href="https://discord.com/users/sin_a22" target="_blank">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-25 hover:text-primary-200 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faDiscord}

@@ -51,7 +51,7 @@ import portfolio9 from "./projects/portfolio-9.jpg";
 // import portfolio10 from "./projects/portfolio-10.png";
 
 // Avatar
-import avatar from "./avatar/my-avatar.png";
+import avatar from "./avatar/My_photo.jpg";
 
 export {
   menu,

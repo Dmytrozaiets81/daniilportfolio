@@ -19,7 +19,7 @@ const ContactForm = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_bs3lfqj",
+      "service_052xiga",
       "template_pkq6j5j",
       e.target,
       "WUITRzjneSVXu0SO9"

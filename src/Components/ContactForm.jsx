@@ -20,7 +20,7 @@ const ContactForm = () => {
 
     emailjs.sendForm(
       "service_bs3lfqj",
-      "__ejs-test-mail-service__",
+      "template_pkq6j5j",
       e.target,
       "WUITRzjneSVXu0SO9"
     )
